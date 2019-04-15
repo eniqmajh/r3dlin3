@@ -7,4 +7,4 @@ What I did instead is something way more primitive. This project uses nothing bu
 Live App
 ------------
 Check out a live preview of it over here:  
-http://ersankuneri.github.io
+http://ersankuneri.github.io/r3dlin3
